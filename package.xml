@@ -48,7 +48,10 @@
     <types>
         <members>Child_1__c</members>
         <members>Child_2__c</members>
+        <members>Child_Object__c</members>
+        <members>Currency__c</members>
         <members>Custom_Date_Object__c</members>
+        <members>Edition__c</members>
         <members>Parent_1__c</members>
         <name>CustomTab</name>
     </types>
