@@ -100,6 +100,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>RecordAction.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Super_Parent_Object__c.AutorabitExtId__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -137,6 +142,18 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Super_Parent_Object__c-Super_Parent_Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Territory2-Territory Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Territory2Model-Territory Model Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Territory2Type-Territory Type Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>UserTerritory2Association-User Territory Association Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>

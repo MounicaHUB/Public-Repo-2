@@ -27,6 +27,7 @@
         <members>Parent_1__c.Child_2_LookUp__c</members>
         <members>Parent_Object__c.AutorabitExtId__c</members>
         <members>Parent_Object__c.Super_Parent_LookUp__c</members>
+        <members>RecordAction.AutorabitExtId__c</members>
         <members>Super_Parent_Object__c.AutorabitExtId__c</members>
         <members>Super_Parent_Object__c.Edition_LookUp__c</members>
         <members>User.AutoRabitExtId__c</members>
@@ -52,6 +53,10 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>group12</members>
+        <name>Group</name>
+    </types>
+    <types>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
@@ -65,6 +70,10 @@
         <members>Parent_1__c-Parent_1 Layout</members>
         <members>Parent_Object__c-Parent_Object Layout</members>
         <members>Super_Parent_Object__c-Super_Parent_Object Layout</members>
+        <members>Territory2-Territory Layout</members>
+        <members>Territory2Model-Territory Model Layout</members>
+        <members>Territory2Type-Territory Type Layout</members>
+        <members>UserTerritory2Association-User Territory Association Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -127,6 +136,10 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Queue1</members>
+        <name>Queue</name>
+    </types>
+    <types>
         <members>Child_Object__c</members>
         <members>Currency__c</members>
         <members>Custom_Date_Object__c</members>
@@ -134,6 +147,20 @@
         <members>Parent_1__c</members>
         <members>Parent_Object__c</members>
         <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Territory1.T1</members>
+        <name>Territory2</name>
+    </types>
+    <types>
+        <members>Territory1</members>
+        <members>Territory2</members>
+        <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territoy_Type1</members>
+        <members>Territoy_Type2</members>
+        <name>Territory2Type</name>
     </types>
     <version>43.0</version>
 </Package>
