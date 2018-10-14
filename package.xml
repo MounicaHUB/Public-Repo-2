@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>44.0</version>
     <types>
         <members>A0</members>
         <members>A025</members>
@@ -96,6 +98,15 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Edit_Permission</members>
+        <members>Loop__DDP_Admin</members>
+        <members>Loop__DDP_User</members>
+        <members>Loop__DDP_User_All</members>
+        <members>Loop__DDP_User_Platform</members>
+        <members>testPerm</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -166,5 +177,4 @@
         <members>Territoy_Type2</members>
         <name>Territory2Type</name>
     </types>
-    <version>43.0</version>
 </Package>
