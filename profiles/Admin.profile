@@ -19,37 +19,12 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>CampaignMember.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Child_1__c.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Child_1__c.Text_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Child_1__c.Text_2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Child_2__c.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Child_Object__c.AutorabitExtId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -79,11 +54,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Parent_1__c.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Parent_1__c.Child_1_LookUp__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -94,27 +64,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Parent_Object__c.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Parent_Object__c.Super_Parent_LookUp__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>RecordAction.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Super_Parent_Object__c.AutorabitExtId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>User.AutoRabitExtId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>

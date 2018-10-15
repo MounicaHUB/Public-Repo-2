@@ -11,29 +11,19 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Campaign.AutorabitExtId__c</members>
-        <members>CampaignMember.AutorabitExtId__c</members>
-        <members>Child_1__c.AutorabitExtId__c</members>
         <members>Child_1__c.Parent_LookUp__c</members>
         <members>Child_1__c.Text_1__c</members>
         <members>Child_1__c.Text_2__c</members>
-        <members>Child_2__c.AutorabitExtId__c</members>
         <members>Child_2__c.Parent_LookUp__c</members>
-        <members>Child_Object__c.AutorabitExtId__c</members>
         <members>Child_Object__c.Edition_LookUp__c</members>
         <members>Custom_Date_Object__c.Date_Field__c</members>
         <members>Edition__c.Currency_LookUp__c</members>
         <members>Edition__c.Edition_LookUp__c</members>
         <members>Edition__c.Parent_LookUp__c</members>
-        <members>Parent_1__c.AutorabitExtId__c</members>
         <members>Parent_1__c.Child_1_LookUp__c</members>
         <members>Parent_1__c.Child_2_LookUp__c</members>
-        <members>Parent_Object__c.AutorabitExtId__c</members>
         <members>Parent_Object__c.Super_Parent_LookUp__c</members>
-        <members>RecordAction.AutorabitExtId__c</members>
-        <members>Super_Parent_Object__c.AutorabitExtId__c</members>
         <members>Super_Parent_Object__c.Edition_LookUp__c</members>
-        <members>User.AutoRabitExtId__c</members>
         <name>CustomField</name>
     </types>
     <types>
